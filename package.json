@@ -1,0 +1,19 @@
+{
+  "name": "freecodecamp-node",
+  "version": "1.0.0",
+  "description": "Learning project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgmgpyaesonewin/freecodecamp-node.git"
+  },
+  "author": "Pyae Sone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgmgpyaesonewin/freecodecamp-node/issues"
+  },
+  "homepage": "https://github.com/mgmgpyaesonewin/freecodecamp-node#readme"
+}
